@@ -1,0 +1,6 @@
+CREATE TABLE tb_worker (
+    id   INTEGER      NOT NULL AUTO_INCREMENT,
+    name VARCHAR(128) NOT NULL,
+    DAY_IN_COME DOUBLE,
+    PRIMARY KEY (id)
+);

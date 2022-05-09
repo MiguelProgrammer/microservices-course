@@ -1,4 +1,4 @@
-INSERT INTO TB_WORKER (NAME, DAY_IN_COME) VALUES ('Miguel Pereira da Silva', 200.00);
-INSERT INTO TB_WORKER (NAME, DAY_IN_COME) VALUES ('Jéssica Pereira da Silva', 300.00);
-INSERT INTO TB_WORKER (NAME, DAY_IN_COME) VALUES ('Sarah Nunes da Silva', 400.00);
-INSERT INTO TB_WORKER (NAME, DAY_IN_COME) VALUES ('Déborah Nunes da Silva', 500.00)
+INSERT INTO tb_worker (name, DAY_IN_COME) VALUES ('Miguel Pereira da Silva', 200);
+INSERT INTO tb_worker (name, DAY_IN_COME) VALUES ('Jéssica Pereira da Silva', 300);
+INSERT INTO tb_worker (name, DAY_IN_COME) VALUES ('Sarah Nunes da Silva', 400);
+INSERT INTO tb_worker (name, DAY_IN_COME) VALUES ('Déborah Nunes da Silva', 500);
