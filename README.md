@@ -9,6 +9,8 @@
 ### Microservices
 
 - [x] hr-worker
+  <br><br><img src="https://i.imgur.com/GWDaYMS.png" alt="Service payment" width="400" class="img-thumbnail"> 
+  <h5> With user Postman, applicantion for use cases of request, we need see a request and result. The datas are mock. </h5>
 - [x] hr-payment
 - [ ] hr-user
 - [ ] hr-role
