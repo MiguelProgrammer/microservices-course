@@ -9,6 +9,6 @@
 ### Microservices
 
 - [x] hr-worker
-- [ ] hr-payment
+- [x] hr-payment
 - [ ] hr-user
 - [ ] hr-role
