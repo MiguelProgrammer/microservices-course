@@ -19,3 +19,6 @@
   <h5>we need see a request and result. The datas are mock. </h5>
 - [ ] hr-user
 - [ ] hr-role
+
+
+# Paused course
