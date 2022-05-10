@@ -17,11 +17,8 @@ public class PaymentService {
 
 	public Payment getPayment(Long workerId, int days) {
 
-		try {
-			Worker worker = workerFeignClient.findById(workerId).getBody();
-			return new Payment(worker.getName(), worker.getDayInCome(), days);
-		} catch (FeignException e) {
-			throw new PayMentException(e.getMessage());
-		}
+		Worker worker = workerFeignClient.findById(workerId).getBody();
+		return new Payment(worker.getName(), worker.getDayInCome(), days);
+
 	}
 }

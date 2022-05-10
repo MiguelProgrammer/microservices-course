@@ -1,10 +1,10 @@
-package br.com.estudandoemcasa.payroll;
+package br.com.estudandoemcasa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HrPayrollApplicationTests {
+class HrWorkerApplicationTests {
 
 	@Test
 	void contextLoads() {

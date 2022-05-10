@@ -1,8 +1,0 @@
-server:
-  port: 8101
-spring:
-  application:
-    name: hr-payroll
-rh-worker:
-  ribbon:
-    listOfServers: localhost:8001, localhost:8002
